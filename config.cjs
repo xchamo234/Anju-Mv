@@ -19,7 +19,7 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "ANISAN",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "MOVIE_JID": false,
   "ANIME_JID": false,
@@ -31,6 +31,6 @@ module.exports = {
   "AI_MODE": false,
   "BANNED": [],
   "SUDO": [
-    "94717775628"
+    "919832518780"
   ]
 };
