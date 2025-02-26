@@ -43,3 +43,4 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~aVUnSDYY#s_-Vb76ddjENDIpeMUH5Qs7S5tE7NR2ZAHEZf5GPH00",
 PORT: process.env.PORT || "8000"
 };
+npm install
